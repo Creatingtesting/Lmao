@@ -43,8 +43,8 @@ local Library = {
 	MainColor = Color3.fromRGB(1, 1, 1);
 	BackgroundColor = Color3.fromRGB(1, 1, 1);
 	AccentColor = Color3.fromRGB(1, 1, 1);
-	OutlineColor = Color3.fromRGB(1, 1, 1);
-	RiskColor = Color3.fromRGB(1, 1, 1),
+	OutlineColor = Color3.fromRGB(255, 255, 255);
+	RiskColor = Color3.fromRGB(255, 255, 255),
 
 	Black = Color3.new(0, 0, 0);
 	Font = Enum.Font.Gotham,
